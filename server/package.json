@@ -1,0 +1,15 @@
+{
+  "name": "dungio",
+  "version": "1.0.0",
+  "description": "Multiplayer rogue like",
+  "main": "server.js",
+  "scripts": {
+    "test": "echo \"Error: no test specified\" && exit 1"
+  },
+  "author": "Daniel Barrington",
+  "license": "ISC",
+  "dependencies": {
+    "express": "^4.13.4",
+    "socket.io": "^1.4.5"
+  }
+}
